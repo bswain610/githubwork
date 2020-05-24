@@ -1,0 +1,2 @@
+1. git remote add origin https://github.com/bswain610/githubwork.git
+2. git push -u origin master
